@@ -58,6 +58,7 @@ require (
 replace (
 	github.com/docker/cli => github.com/docker/cli v20.10.3-0.20210702143511-f782d1355eff+incompatible
 	github.com/docker/docker => github.com/docker/docker v20.10.3-0.20211216190657-088afc99e4bf+incompatible
+	github.com/moby/buildkit => github.com/shizhMSFT/buildkit v0.0.0-20220112142729-1b265c4136fb
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace => github.com/tonistiigi/opentelemetry-go-contrib/instrumentation/net/http/httptrace/otelhttptrace v0.0.0-20211026174723-2f82a1e0c997
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp => github.com/tonistiigi/opentelemetry-go-contrib/instrumentation/net/http/otelhttp v0.0.0-20211026174723-2f82a1e0c997
 )
